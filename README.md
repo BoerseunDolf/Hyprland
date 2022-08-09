@@ -21,6 +21,9 @@ It supports multiple layouts, fancy effects, has a very flexible IPC model allow
 <br>
 <br>
 
+# conrtibution
+I would look into the posibilities of contributing to this repository. 
+
 ---
 
 **[<kbd> <br> Install <br> </kbd>][Install]** 
